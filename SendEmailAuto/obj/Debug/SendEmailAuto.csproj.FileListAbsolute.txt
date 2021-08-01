@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\SendEmailAuto\bin\Debug\SendEmailAuto.exe
+C:\Users\ADMIN\source\repos\SendEmailAuto\bin\Debug\SendEmailAuto.pdb
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.Form1.resources
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.exe
+C:\Users\ADMIN\source\repos\SendEmailAuto\obj\Debug\SendEmailAuto.pdb
